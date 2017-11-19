@@ -1,0 +1,4 @@
+Eduardo Ribeiro, para melhor organização crie suas classes no pacote com o seu nome do diretório ../main/java".
+Este arquivo se deve ao fato de que o pacote de seu nome não será criado no repositório do Github caso não haja nenhum arquivo.
+
+Lembre-se de deletar esse arquivo após criar suas classes, pois este arquivo não é necessário.
