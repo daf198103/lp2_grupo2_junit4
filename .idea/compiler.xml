@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lp2_grupo2" />
         <module name="lp2_grupo2_juni4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lp2_grupo2" target="1.5" />
       <module name="lp2_grupo2_juni4" target="1.5" />
     </bytecodeTargetLevel>
   </component>
