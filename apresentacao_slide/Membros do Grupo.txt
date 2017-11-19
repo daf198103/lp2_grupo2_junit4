@@ -1,0 +1,31 @@
+Membros do Grupo Junit
+
+Grupo 2 - Linguagem de Programação 2 (LP2).
+Tema: Junit 4 - Open Source Framework
+Membros do grupo:
+
+Ana Cristina Lima
+analimazn@gmail.com
+
+David Alves França
+david.franca01@fatec.sp.gov.br
+
+Eduardo Ribeiro
+eduardo.ribeiro25@fatec.sp.gov.br
+
+Henrique Gregorio
+henrique_greg@hotmail.com
+
+Renato Borges Gallo Junior
+renato.gallo@fatec.sp.gov.br
+
+Robson de Sousa
+robson.sousa@outlook.com
+
+Ruben Filipe
+ruben.oliveira@fatec.sp.gov.br
+rubenfilipeao@gmail.com
+
+Quem apresenta o que
+Ruben Timeout
+Robson Suite e Test Execution Order
