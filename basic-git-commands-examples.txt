@@ -1,0 +1,50 @@
+Creating Readme by command line
+
+criar read.md
+touch README.md
+
+git init (digite o comando git init dentro do diretório raiz do projeto).
+git ignore (digite esse comando seguido do diretório ou arquivo que você não quer que seja commitado).
+git status (verifica se há arquivos alterados pendentes que devem ser comitados antes de envia-los para o repositório remoto)
+git add namefile.extension
+git commit -m "It’s a commentary."
+git add "*.txt" (adiciona todos arquivos com extensão txt).
+git add . (adiciona todos os arquivos alterados
+git commit -m "Após git add... git commit "valida" as alterações feitas para posteriormente envia-las para o repositório remoto"
+o parametro -m na linha acima é justamente a mensagem que se deseja colocar "mensagem entre aspas"
+git log (mostra os comites realizados pelo team no projeto)
+git shortlog (mostra log resumido - apenas nome do comite)
+git remote add origin https://github.com/try-git/try_git.git
+git add --all (add many files)
+
+git push -u orgin master
+git branch -a (rastreia as branchs criadas)
+git fetch -a (rastreia nova branch remota)
+git checkout nome_da_branch (troca de branch)
+git branch -d nome_da_branch (deletar local branch)
+git push origin :branch_remota ou git push origin --delete
+git merge nome_da_branch_origem
+git clone 'url/directory'
+exemple: git clone "https://github.com/try-git/try_git.git"
+
+entregando atualizações de uma branch para master
+git checkout nome_da_branc_que sera modificada
+git merge nome_da_branch_origem
+
+Criar uma branch localmente
+git checkout -b "nome da nova branch"
+
+Trocar de branch
+git checkout "nome da nova branch"
+
+Push the branch on github
+git push origin "nome da nova branch"
+
+Undo 
+git checkout --file_name.extension_file
+
+Branching Out
+git branch clean_up
+
+Deletar Branch
+git branch -d nome_da_branch
