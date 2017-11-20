@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1d2fcf-8cc7-4143-9d3b-8bcc39e70a7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/JunitTestSuite.java" afterPath="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/AllTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apresentacao_slide/Junit - grupo-2.pptx" afterPath="$PROJECT_DIR$/apresentacao_slide/Junit - grupo-2.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lp2/grupo2/robson_sousa/TestRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/lp2/grupo2/robson_sousa/TestRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/TestRunner.java" afterPath="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/TestRunner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
@@ -53,6 +47,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-git-commands-examples.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic-git-commands-examples.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/TestMethodOrder.java" />
         <option value="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/lp2/grupo2/robson_sousa/AllTests.java" />
+        <option value="$PROJECT_DIR$/basic-git-commands-examples.txt" />
       </list>
     </option>
   </component>
@@ -692,7 +697,7 @@
       <workItem from="1511139330475" duration="41000" />
       <workItem from="1511139477677" duration="7156000" />
       <workItem from="1511154213400" duration="69000" />
-      <workItem from="1511154343433" duration="6120000" />
+      <workItem from="1511154343433" duration="6757000" />
     </task>
     <servers />
   </component>
@@ -729,7 +734,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39482000" />
+    <option name="totallyTimeSpent" value="40119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -748,7 +753,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28668684" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28668684" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -806,14 +811,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lp2/grupo2/ana_cristina/TestJunit1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1117,6 +1114,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-git-commands-examples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
